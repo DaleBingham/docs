@@ -138,7 +138,7 @@ You can also access the Function Store from the Portal UI and find a range of fu
 
 #### Use the UI
 
-The UI is exposed on https://openfaas-openfaas.&lt;cluster-hostname&gt;.
+The UI is exposed on https://openfaas-openfaas. &lt;cluster-hostname&gt;.
 
 Click "New Function" and fill it out with the following:
 
